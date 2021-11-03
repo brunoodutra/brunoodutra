@@ -24,9 +24,8 @@
  ## Who am I? 
 
 * 👩‍💻 Data Scientist.
-* 📊 Machine Learn Engineer.
+* 📊 Machine Learn Specialist.
 * 📚 Researcher.
-* 👩‍🏫 Teacher.
 * 👩‍🎓 Automation and Control Engineer -IESAM.
 * 🎓 Master in Electrical Engineering - UFPA.
 <!--* 🍾 PHD in Electrical Engineering - UFPA.-->
@@ -42,6 +41,7 @@
  
 <!--*
 * 📈 R.
+* 👩‍🏫 Teacher.
 * 💻 SAS.-->
 
  
