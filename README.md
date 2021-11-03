@@ -10,7 +10,7 @@
   <img align="center" alt="Bruno-Jupyter" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg">
   <img align="center" alt="Bruno-Arduino" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
  <img align="center" alt="Bruno-Mysql" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Bruno-Rick" src="https://tenor.com/view/rick-fortnite-rick-fortnite-rick-and-morty-rick-and-morty-fortnite-gif-21873524">
+  <img align="right" alt="Bruno-Rick" src="https://c.tenor.com/OSeo01ZiX9YAAAAd/rick-fortnite.gif">
 </div>
   
   ##
