@@ -21,6 +21,31 @@
   <a href = "mailto:brunodutra@ufpa.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bruno-gomes-dutra-28aa56104/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ ## Who am I? 
+
+* 👩‍💻 Data Scientist.
+* 📊 Machine Learn Engineer.
+* 📚 Researcher.
+* 👩‍🏫 Teacher.
+* 👩‍🎓 Automation and Control Engineer -IESAM.
+* 🎓 Master in Electrical Engineering - UFPA.
+<!--* 🍾 PHD in Electrical Engineering - UFPA.-->
+
+## Skills 👩‍💻
+
+* 🐍 Python.
+* 🔮 Machine Learning.
+* 📊 Data Visualization
+* 🧪 Survival Analysis.
+* 🗄 SQL.
+* 🧮 Power BI.
+ 
+<!--*
+* 📈 R.
+* 💻 SAS.-->
+
+ 
+ 
   ![Snake animation](https://github.com/brunoodutra/brunoodutra/blob/output/github-contribution-grid-snake.svg)
  
 </div>
